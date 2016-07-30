@@ -16,6 +16,7 @@ public class InitCalcs {
 
     public List listAdder (){
         ArrayList<Calculator>list = new ArrayList<>();
+        //очень полезный коммент
         list.add(water);
         list.add(electric);
         list.add(gas);
